@@ -1,0 +1,27 @@
+[submodule "packages/Stardust"]
+	path = packages/Stardust
+	url = https://github.com/strdstnet/Stardust.git
+[submodule "packages/utils.binary"]
+	path = packages/utils.binary
+	url = https://github.com/strdstnet/utils.binary.git
+[submodule "packages/protocol"]
+	path = packages/protocol
+	url = https://github.com/strdstnet/protocol.git
+[submodule "packages/utils.anvil"]
+	path = packages/utils.anvil
+	url = https://github.com/strdstnet/utils.anvil.git
+[submodule "packages/utils.events"]
+	path = packages/utils.events
+	url = https://github.com/strdstnet/utils.events.git
+[submodule "packages/utils.nbt"]
+	path = packages/utils.nbt
+	url = https://github.com/strdst/utils.nbt.git
+[submodule "packages/_strdst/utils.binary"]
+	path = packages/_strdst/utils.binary
+	url = https://github.com/strdst/utils.binary.git
+[submodule "packages/_strdst/utils.nbt"]
+	path = packages/_strdst/utils.nbt
+	url = https://github.com/strdst/utils.nbt.git
+[submodule "packages/_strdst/tsconfig"]
+	path = packages/_strdst/tsconfig
+	url = https://github.com/strdst/tsconfig.git
