@@ -13,9 +13,6 @@
 [submodule "packages/utils.events"]
 	path = packages/utils.events
 	url = https://github.com/strdstnet/utils.events.git
-[submodule "packages/utils.nbt"]
-	path = packages/utils.nbt
-	url = https://github.com/strdst/utils.nbt.git
 [submodule "packages/_strdst/utils.binary"]
 	path = packages/_strdst/utils.binary
 	url = https://github.com/strdst/utils.binary.git
