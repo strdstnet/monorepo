@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages/Stardust",
+    "packages/protocol",
+    "packages/utils.anvil",
+    "packages/utils.binary",
+    "packages/utils.events",
+    "packages/_strdst/utils.nbt",
+    "packages/_strdst/utils.binary"
+  ],
+  "repository": "https://github.com/strdstnet/Stardust-monorepo.git",
+  "scripts": {
+    "start": "cd packages/Stardust && yarn start"
+  }
+}
